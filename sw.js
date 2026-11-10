@@ -1,4 +1,4 @@
-var CACHE="stundenzettel-k-v1";
+var CACHE="stundenzettel-k-v6";
 var CORE=["./","index.html","manifest.webmanifest","icon-192.png","icon-512.png","apple-touch-icon.png"];
 var EXTRA="https://cdnjs.cloudflare.com/ajax/libs/exceljs/4.4.0/exceljs.min.js";
 self.addEventListener("install",function(e){
